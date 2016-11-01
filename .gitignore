@@ -6,4 +6,4 @@
 *.mkv
 *.jar
 *.pyc
-
+*.o

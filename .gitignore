@@ -1,3 +1,7 @@
+*
+!Makefile
+!*.c
+!*.cpp
 *.exe
 *.h
 *.tmp
@@ -7,3 +11,5 @@
 *.jar
 *.pyc
 *.o
+*.a
+*.so

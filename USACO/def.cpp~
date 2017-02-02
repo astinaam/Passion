@@ -1,0 +1,25 @@
+/*
+ID: abdulah2
+PROG: test
+LANG: C++11
+*/
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define pb push_back
+#define dbg(n) cerr<<#n<<"="<<n<<endl;
+#define dbg(n,m) cerr<<#n<<=n<<","<<#m<<"="<<m<<endl;
+
+void solve()
+{
+	
+}
+
+int main() 
+{
+    freopen("test.in","r",stdin);
+    freopen("test.out","w",stdout);
+    solve();
+    return 0;
+}

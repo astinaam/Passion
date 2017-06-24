@@ -1,0 +1,1255 @@
+====update of 0 9====
+====query of 0 6====
+now at 0 0 99999 0
+now at 1 0 49999 0
+now at 3 0 24999 0
+now at 7 0 12499 0
+now at 15 0 6249 0
+now at 31 0 3124 0
+now at 63 0 1562 0
+now at 127 0 781 0
+now at 255 0 390 0
+now at 511 0 195 0
+now at 1023 0 97 0
+now at 2047 0 48 0
+now at 4095 0 24 0
+now at 8191 0 12 0
+now at 16383 0 6 0
+now at 16384 7 12 0
+merging 16383 16384
+1. {7,0,0 0}
+2. {3,0,3 0}
+resulting to {10,0,3 0}
+returned 0
+now at 8192 13 24 0
+merging 8191 8192
+1. {10,0,3 0}
+2. {0,0,12 0}
+resulting to {10,0,15 0}
+returned 0
+now at 4096 25 48 0
+merging 4095 4096
+1. {10,0,15 0}
+2. {0,0,24 0}
+resulting to {10,0,39 0}
+returned 0
+now at 2048 49 97 0
+merging 2047 2048
+1. {10,0,39 0}
+2. {0,0,49 0}
+resulting to {10,0,88 0}
+returned 0
+now at 1024 98 195 0
+merging 1023 1024
+1. {10,0,88 0}
+2. {0,0,98 0}
+resulting to {10,0,186 0}
+returned 0
+now at 512 196 390 0
+merging 511 512
+1. {10,0,186 0}
+2. {0,0,195 0}
+resulting to {10,0,381 0}
+returned 0
+now at 256 391 781 0
+merging 255 256
+1. {10,0,381 0}
+2. {0,0,391 0}
+resulting to {10,0,772 0}
+returned 0
+now at 128 782 1562 0
+merging 127 128
+1. {10,0,772 0}
+2. {0,0,781 0}
+resulting to {10,0,1553 0}
+returned 0
+now at 64 1563 3124 0
+merging 63 64
+1. {10,0,1553 0}
+2. {0,0,1562 0}
+resulting to {10,0,3115 0}
+returned 0
+now at 32 3125 6249 0
+merging 31 32
+1. {10,0,3115 0}
+2. {0,0,3125 0}
+resulting to {10,0,6240 0}
+returned 0
+now at 16 6250 12499 0
+merging 15 16
+1. {10,0,6240 0}
+2. {0,0,6250 0}
+resulting to {10,0,12490 0}
+returned 0
+now at 8 12500 24999 0
+merging 7 8
+1. {10,0,12490 0}
+2. {0,0,12500 0}
+resulting to {10,0,24990 0}
+returned 0
+now at 4 25000 49999 0
+merging 3 4
+1. {10,0,24990 0}
+2. {0,0,25000 0}
+resulting to {10,0,49990 0}
+returned 0
+now at 2 50000 99999 0
+merging 1 2
+1. {10,0,49990 0}
+2. {0,0,50000 0}
+resulting to {10,0,99990 0}
+returned 0
+====update of 10 19====
+====query of 9 18====
+now at 0 0 99999 0
+now at 1 0 49999 0
+now at 3 0 24999 0
+now at 7 0 12499 0
+now at 15 0 6249 0
+now at 31 0 3124 0
+now at 63 0 1562 0
+now at 127 0 781 0
+now at 255 0 390 0
+now at 511 0 195 0
+now at 1023 0 97 0
+now at 2047 0 48 0
+now at 4095 0 24 0
+now at 8191 0 12 0
+now at 16383 0 6 0
+now at 16384 7 12 0
+now at 32769 7 9 0
+now at 65539 7 8 1
+now at 65540 9 9 1
+merging 65539 65540
+1. {2,0,0 0}
+2. {1,0,0 0}
+resulting to {3,0,0 0}
+returned 0
+now at 32770 10 12 0
+merging 32769 32770
+1. {3,0,0 0}
+2. {3,0,0 0}
+resulting to {6,0,0 0}
+returned 0
+merging 16383 16384
+1. {7,0,0 0}
+2. {6,0,0 0}
+resulting to {13,0,0 0}
+returned 0
+now at 8192 13 24 0
+now at 16385 13 18 0
+now at 16386 19 24 0
+merging 16385 16386
+1. {6,0,0 0}
+2. {1,0,5 0}
+resulting to {7,0,5 0}
+returned 0
+merging 8191 8192
+1. {13,0,0 0}
+2. {7,0,5 0}
+resulting to {20,0,5 0}
+returned 0
+now at 4096 25 48 0
+merging 4095 4096
+1. {20,0,5 0}
+2. {0,0,24 0}
+resulting to {20,0,29 0}
+returned 0
+now at 2048 49 97 0
+merging 2047 2048
+1. {20,0,29 0}
+2. {0,0,49 0}
+resulting to {20,0,78 0}
+returned 0
+now at 1024 98 195 0
+merging 1023 1024
+1. {20,0,78 0}
+2. {0,0,98 0}
+resulting to {20,0,176 0}
+returned 0
+now at 512 196 390 0
+merging 511 512
+1. {20,0,176 0}
+2. {0,0,195 0}
+resulting to {20,0,371 0}
+returned 0
+now at 256 391 781 0
+merging 255 256
+1. {20,0,371 0}
+2. {0,0,391 0}
+resulting to {20,0,762 0}
+returned 0
+now at 128 782 1562 0
+merging 127 128
+1. {20,0,762 0}
+2. {0,0,781 0}
+resulting to {20,0,1543 0}
+returned 0
+now at 64 1563 3124 0
+merging 63 64
+1. {20,0,1543 0}
+2. {0,0,1562 0}
+resulting to {20,0,3105 0}
+returned 0
+now at 32 3125 6249 0
+merging 31 32
+1. {20,0,3105 0}
+2. {0,0,3125 0}
+resulting to {20,0,6230 0}
+returned 0
+now at 16 6250 12499 0
+merging 15 16
+1. {20,0,6230 0}
+2. {0,0,6250 0}
+resulting to {20,0,12480 0}
+returned 0
+now at 8 12500 24999 0
+merging 7 8
+1. {20,0,12480 0}
+2. {0,0,12500 0}
+resulting to {20,0,24980 0}
+returned 0
+now at 4 25000 49999 0
+merging 3 4
+1. {20,0,24980 0}
+2. {0,0,25000 0}
+resulting to {20,0,49980 0}
+returned 0
+now at 2 50000 99999 0
+merging 1 2
+1. {20,0,49980 0}
+2. {0,0,50000 0}
+resulting to {20,0,99980 0}
+returned 0
+====update of 200 900====
+====query of 900 900====
+now at 0 0 99999 0
+now at 1 0 49999 0
+now at 3 0 24999 0
+now at 7 0 12499 0
+now at 15 0 6249 0
+now at 31 0 3124 0
+now at 63 0 1562 0
+now at 127 0 781 0
+now at 128 782 1562 0
+now at 257 782 1172 0
+now at 515 782 977 0
+now at 1031 782 879 0
+now at 1032 880 977 0
+now at 2065 880 928 0
+now at 4131 880 904 0
+now at 8263 880 892 0
+now at 8264 893 904 0
+now at 16529 893 898 0
+now at 16530 899 904 0
+now at 33061 899 901 0
+now at 66123 899 900 0
+now at 132247 899 899 1
+now at 132248 900 900 1
+merging 132247 132248
+1. {1,0,0 0}
+2. {1,0,0 0}
+resulting to {2,0,0 0}
+returned 0
+now at 66124 901 901 0
+merging 66123 66124
+1. {2,0,0 0}
+2. {0,0,1 0}
+resulting to {2,0,1 0}
+returned 0
+now at 33062 902 904 0
+merging 33061 33062
+1. {2,0,1 0}
+2. {0,0,3 0}
+resulting to {2,0,4 0}
+returned 0
+merging 16529 16530
+1. {6,0,0 0}
+2. {2,0,4 0}
+resulting to {8,0,4 0}
+returned 0
+merging 8263 8264
+1. {13,0,0 0}
+2. {8,0,4 0}
+resulting to {21,0,4 0}
+returned 0
+now at 4132 905 928 0
+merging 4131 4132
+1. {21,0,4 0}
+2. {0,0,24 0}
+resulting to {21,0,28 0}
+returned 0
+now at 2066 929 977 0
+merging 2065 2066
+1. {21,0,28 0}
+2. {0,0,49 0}
+resulting to {21,0,77 0}
+returned 0
+merging 1031 1032
+1. {98,0,0 0}
+2. {21,0,77 0}
+resulting to {119,0,77 0}
+returned 0
+now at 516 978 1172 0
+merging 515 516
+1. {119,0,77 0}
+2. {0,0,195 0}
+resulting to {119,0,272 0}
+returned 0
+now at 258 1173 1562 0
+merging 257 258
+1. {119,0,272 0}
+2. {0,0,390 0}
+resulting to {119,0,662 0}
+returned 0
+merging 127 128
+1. {602,0,180 0}
+2. {119,0,662 0}
+resulting to {721,0,842 0}
+returned 0
+now at 64 1563 3124 0
+merging 63 64
+1. {721,0,842 0}
+2. {0,0,1562 0}
+resulting to {721,0,2404 0}
+returned 0
+now at 32 3125 6249 0
+merging 31 32
+1. {721,0,2404 0}
+2. {0,0,3125 0}
+resulting to {721,0,5529 0}
+returned 0
+now at 16 6250 12499 0
+merging 15 16
+1. {721,0,5529 0}
+2. {0,0,6250 0}
+resulting to {721,0,11779 0}
+returned 0
+now at 8 12500 24999 0
+merging 7 8
+1. {721,0,11779 0}
+2. {0,0,12500 0}
+resulting to {721,0,24279 0}
+returned 0
+now at 4 25000 49999 0
+merging 3 4
+1. {721,0,24279 0}
+2. {0,0,25000 0}
+resulting to {721,0,49279 0}
+returned 0
+now at 2 50000 99999 0
+merging 1 2
+1. {721,0,49279 0}
+2. {0,0,50000 0}
+resulting to {721,0,99279 0}
+returned 0
+====update of 1 9999====
+====query of 1 9999====
+now at 0 0 99999 1
+now at 1 0 49999 2
+now at 3 0 24999 3
+now at 7 0 12499 1
+now at 15 0 6249 2
+now at 31 0 3124 3
+now at 63 0 1562 1
+now at 127 0 781 2
+now at 255 0 390 3
+now at 511 0 195 1
+now at 1023 0 97 2
+now at 2047 0 48 3
+now at 4095 0 24 1
+now at 8191 0 12 2
+now at 16383 0 6 3
+now at 32767 0 3 1
+now at 65535 0 1 2
+now at 131071 0 0 3
+now at 131072 1 1 2
+merging 131071 131072
+1. {0,0,1 0}
+2. {1,0,0 0}
+resulting to {1,1,0 0}
+returned 0
+now at 65536 2 3 1
+merging 65535 65536
+1. {1,1,0 0}
+2. {0,0,2 0}
+resulting to {1,0,3 0}
+returned 2
+now at 32768 4 6 0
+merging 32767 32768
+1. {1,0,3 0}
+2. {0,3,0 0}
+resulting to {0,6,1 0}
+returned 2
+now at 16384 7 12 2
+merging 16383 16384
+1. {0,6,1 0}
+2. {6,0,0 0}
+resulting to {12,1,0 0}
+returned 2
+now at 8192 13 24 1
+merging 8191 8192
+1. {12,1,0 0}
+2. {0,5,7 0}
+resulting to {1,5,19 0}
+returned 9
+now at 4096 25 48 0
+merging 4095 4096
+1. {1,5,19 0}
+2. {24,0,0 0}
+resulting to {29,19,1 0}
+returned 9
+now at 2048 49 97 2
+merging 2047 2048
+1. {29,19,1 0}
+2. {0,0,49 0}
+resulting to {19,1,78 0}
+returned 58
+now at 1024 98 195 1
+merging 1023 1024
+1. {19,1,78 0}
+2. {0,98,0 0}
+resulting to {1,176,19 0}
+returned 58
+now at 512 196 390 0
+merging 511 512
+1. {1,176,19 0}
+2. {4,191,0 0}
+resulting to {180,210,1 0}
+returned 58
+now at 256 391 781 2
+merging 255 256
+1. {180,210,1 0}
+2. {391,0,0 0}
+resulting to {601,1,180 0}
+returned 58
+now at 128 782 1562 1
+merging 127 128
+1. {601,1,180 0}
+2. {0,662,119 0}
+resulting to {1,842,720 0}
+returned 177
+now at 64 1563 3124 0
+merging 63 64
+1. {1,842,720 0}
+2. {1562,0,0 0}
+resulting to {2404,720,1 0}
+returned 177
+now at 32 3125 6249 2
+merging 31 32
+1. {2404,720,1 0}
+2. {0,0,3125 0}
+resulting to {720,1,5529 0}
+returned 3302
+now at 16 6250 12499 1
+now at 33 6250 9374 1
+now at 34 9375 12499 1
+now at 69 9375 10937 1
+now at 139 9375 10156 1
+now at 279 9375 9765 1
+now at 280 9766 10156 1
+now at 561 9766 9961 1
+now at 562 9962 10156 1
+now at 1125 9962 10059 1
+now at 2251 9962 10010 1
+now at 4503 9962 9986 1
+now at 4504 9987 10010 1
+now at 9009 9987 9998 1
+now at 9010 9999 10010 1
+now at 18021 9999 10004 1
+now at 36043 9999 10001 1
+now at 72087 9999 10000 1
+now at 144175 9999 9999 1
+now at 144176 10000 10000 1
+merging 144175 144176
+1. {0,1,0 0}
+2. {1,0,0 0}
+resulting to {1,1,0 0}
+returned 0
+now at 72088 10001 10001 1
+merging 72087 72088
+1. {1,1,0 0}
+2. {1,0,0 0}
+resulting to {2,1,0 0}
+returned 0
+now at 36044 10002 10004 1
+merging 36043 36044
+1. {2,1,0 0}
+2. {3,0,0 0}
+resulting to {5,1,0 0}
+returned 0
+now at 18022 10005 10010 1
+merging 18021 18022
+1. {5,1,0 0}
+2. {6,0,0 0}
+resulting to {11,1,0 0}
+returned 0
+merging 9009 9010
+1. {0,12,0 0}
+2. {11,1,0 0}
+resulting to {11,13,0 0}
+returned 0
+merging 4503 4504
+1. {0,25,0 0}
+2. {11,13,0 0}
+resulting to {11,38,0 0}
+returned 0
+now at 2252 10011 10059 1
+merging 2251 2252
+1. {11,38,0 0}
+2. {49,0,0 0}
+resulting to {60,38,0 0}
+returned 0
+now at 1126 10060 10156 1
+merging 1125 1126
+1. {60,38,0 0}
+2. {97,0,0 0}
+resulting to {157,38,0 0}
+returned 0
+merging 561 562
+1. {0,196,0 0}
+2. {157,38,0 0}
+resulting to {157,234,0 0}
+returned 0
+merging 279 280
+1. {0,391,0 0}
+2. {157,234,0 0}
+resulting to {157,625,0 0}
+returned 0
+now at 140 10157 10937 1
+merging 139 140
+1. {157,625,0 0}
+2. {781,0,0 0}
+resulting to {938,625,0 0}
+returned 0
+now at 70 10938 12499 1
+merging 69 70
+1. {938,625,0 0}
+2. {1562,0,0 0}
+resulting to {2500,625,0 0}
+returned 0
+merging 33 34
+1. {0,3125,0 0}
+2. {2500,625,0 0}
+resulting to {2500,3750,0 0}
+returned 0
+merging 15 16
+1. {720,1,5529 0}
+2. {2500,3750,0 0}
+resulting to {2501,9279,720 0}
+returned 3302
+now at 8 12500 24999 0
+merging 7 8
+1. {2501,9279,720 0}
+2. {0,0,12500 0}
+resulting to {9279,720,15001 0}
+returned 3302
+now at 4 25000 49999 2
+merging 3 4
+1. {9279,720,15001 0}
+2. {0,25000,0 0}
+resulting to {720,40001,9279 0}
+returned 3302
+now at 2 50000 99999 1
+merging 1 2
+1. {720,40001,9279 0}
+2. {50000,0,0 0}
+resulting to {90001,9279,720 0}
+returned 3302
+====update of 0 99999====
+====query of 0 99999====
+now at 0 0 99999 0
+====update of 888 9999====
+====query of 888 9990====
+now at 0 0 99999 14
+now at 1 0 49999 15
+now at 3 0 24999 12
+now at 7 0 12499 11
+now at 15 0 6249 5
+now at 31 0 3124 5
+now at 63 0 1562 5
+now at 127 0 781 3
+now at 128 782 1562 4
+now at 257 782 1172 3
+now at 515 782 977 2
+now at 1031 782 879 2
+now at 1032 880 977 4
+now at 2065 880 928 3
+now at 4131 880 904 2
+now at 8263 880 892 4
+now at 16527 880 886 2
+now at 16528 887 892 2
+now at 33057 887 889 3
+now at 66115 887 888 1
+now at 132231 887 887 2
+now at 132232 888 888 1
+merging 132231 132232
+1. {0,1,0 0}
+2. {0,0,1 0}
+resulting to {1,0,1 0}
+returned 1
+now at 66116 889 889 0
+merging 66115 66116
+1. {1,0,1 0}
+2. {0,1,0 0}
+resulting to {0,2,1 0}
+returned 1
+now at 33058 890 892 2
+merging 33057 33058
+1. {0,2,1 0}
+2. {3,0,0 0}
+resulting to {5,1,0 0}
+returned 1
+merging 16527 16528
+1. {0,7,0 0}
+2. {5,1,0 0}
+resulting to {8,0,5 0}
+returned 1
+now at 8264 893 904 2
+merging 8263 8264
+1. {8,0,5 0}
+2. {8,0,4 0}
+resulting to {13,8,4 0}
+returned 5
+now at 4132 905 928 0
+merging 4131 4132
+1. {13,8,4 0}
+2. {24,0,0 0}
+resulting to {28,13,8 0}
+returned 5
+now at 2066 929 977 1
+merging 2065 2066
+1. {28,13,8 0}
+2. {0,49,0 0}
+resulting to {8,77,13 0}
+returned 5
+merging 1031 1032
+1. {0,0,98 0}
+2. {8,77,13 0}
+resulting to {13,8,175 0}
+returned 5
+now at 516 978 1172 0
+merging 515 516
+1. {13,8,175 0}
+2. {195,0,0 0}
+resulting to {370,13,8 0}
+returned 5
+now at 258 1173 1562 1
+merging 257 258
+1. {370,13,8 0}
+2. {0,390,0 0}
+resulting to {8,760,13 0}
+returned 5
+merging 127 128
+1. {601,1,180 0}
+2. {8,760,13 0}
+resulting to {14,188,1361 0}
+returned 5
+now at 64 1563 3124 2
+merging 63 64
+1. {14,188,1361 0}
+2. {0,1562,0 0}
+resulting to {14,1750,1361 0}
+returned 5
+now at 32 3125 6249 2
+merging 31 32
+1. {14,1750,1361 0}
+2. {3125,0,0 0}
+resulting to {3139,1750,1361 0}
+returned 5
+now at 16 6250 12499 10
+now at 33 6250 9374 1
+now at 34 9375 12499 9
+now at 69 9375 10937 7
+now at 139 9375 10156 7
+now at 279 9375 9765 1
+now at 280 9766 10156 7
+now at 561 9766 9961 1
+now at 562 9962 10156 7
+now at 1125 9962 10059 6
+now at 2251 9962 10010 4
+now at 4503 9962 9986 1
+now at 4504 9987 10010 5
+now at 9009 9987 9998 2
+now at 18019 9987 9992 6
+now at 36039 9987 9989 0
+now at 36040 9990 9992 0
+now at 72081 9990 9991 0
+now at 144163 9990 9990 0
+now at 144164 9991 9991 0
+merging 144163 144164
+1. {0,0,1 0}
+2. {0,0,1 0}
+resulting to {0,0,2 0}
+returned 1
+now at 72082 9992 9992 0
+merging 72081 72082
+1. {0,0,2 0}
+2. {0,0,1 0}
+resulting to {0,0,3 0}
+returned 1
+merging 36039 36040
+1. {0,0,3 0}
+2. {0,0,3 0}
+resulting to {0,0,6 0}
+returned 4
+now at 18020 9993 9998 6
+merging 18019 18020
+1. {0,0,6 0}
+2. {0,0,6 0}
+resulting to {0,0,12 0}
+returned 4
+now at 9010 9999 10010 6
+merging 9009 9010
+1. {0,0,12 0}
+2. {12,0,0 0}
+resulting to {0,0,24 0}
+returned 4
+merging 4503 4504
+1. {0,25,0 0}
+2. {0,0,24 0}
+resulting to {0,49,0 0}
+returned 4
+now at 2252 10011 10059 1
+merging 2251 2252
+1. {0,49,0 0}
+2. {0,49,0 0}
+resulting to {98,0,0 0}
+returned 4
+now at 1126 10060 10156 2
+merging 1125 1126
+1. {98,0,0 0}
+2. {0,0,97 0}
+resulting to {0,195,0 0}
+returned 4
+merging 561 562
+1. {0,196,0 0}
+2. {0,195,0 0}
+resulting to {0,391,0 0}
+returned 4
+merging 279 280
+1. {0,391,0 0}
+2. {0,391,0 0}
+resulting to {0,782,0 0}
+returned 4
+now at 140 10157 10937 2
+merging 139 140
+1. {0,782,0 0}
+2. {0,0,781 0}
+resulting to {0,1563,0 0}
+returned 4
+now at 70 10938 12499 1
+merging 69 70
+1. {0,1563,0 0}
+2. {0,1562,0 0}
+resulting to {3125,0,0 0}
+returned 4
+merging 33 34
+1. {0,3125,0 0}
+2. {3125,0,0 0}
+resulting to {0,6250,0 0}
+returned 4
+merging 15 16
+1. {3139,1750,1361 0}
+2. {0,6250,0 0}
+resulting to {3139,1750,7611 0}
+returned 9
+now at 8 12500 24999 1
+merging 7 8
+1. {3139,1750,7611 0}
+2. {12500,0,0 0}
+resulting to {7611,3139,14250 0}
+returned 9
+now at 4 25000 49999 1
+merging 3 4
+1. {7611,3139,14250 0}
+2. {0,0,25000 0}
+resulting to {7611,28139,14250 0}
+returned 9
+now at 2 50000 99999 3
+merging 1 2
+1. {7611,28139,14250 0}
+2. {50000,0,0 0}
+resulting to {28139,14250,57611 0}
+returned 9
+====update of 0 0====
+====query of 1 99999====
+now at 0 0 99999 0
+now at 1 0 49999 0
+now at 3 0 24999 0
+now at 7 0 12499 0
+now at 15 0 6249 0
+now at 31 0 3124 0
+now at 63 0 1562 0
+now at 127 0 781 0
+now at 255 0 390 0
+now at 511 0 195 0
+now at 1023 0 97 0
+now at 2047 0 48 0
+now at 4095 0 24 0
+now at 8191 0 12 0
+now at 16383 0 6 0
+now at 32767 0 3 0
+now at 65535 0 1 0
+now at 131071 0 0 0
+now at 131072 1 1 0
+merging 131071 131072
+1. {1,0,0 0}
+2. {1,0,0 0}
+resulting to {2,0,0 0}
+returned 0
+now at 65536 2 3 0
+merging 65535 65536
+1. {2,0,0 0}
+2. {0,0,2 0}
+resulting to {2,0,2 0}
+returned 2
+now at 32768 4 6 0
+merging 32767 32768
+1. {2,0,2 0}
+2. {0,3,0 0}
+resulting to {2,3,2 0}
+returned 2
+now at 16384 7 12 0
+merging 16383 16384
+1. {2,3,2 0}
+2. {6,0,0 0}
+resulting to {8,3,2 0}
+returned 2
+now at 8192 13 24 0
+merging 8191 8192
+1. {8,3,2 0}
+2. {0,5,7 0}
+resulting to {8,8,9 0}
+returned 9
+now at 4096 25 48 0
+merging 4095 4096
+1. {8,8,9 0}
+2. {24,0,0 0}
+resulting to {32,8,9 0}
+returned 9
+now at 2048 49 97 0
+merging 2047 2048
+1. {32,8,9 0}
+2. {0,0,49 0}
+resulting to {32,8,58 0}
+returned 58
+now at 1024 98 195 0
+merging 1023 1024
+1. {32,8,58 0}
+2. {0,98,0 0}
+resulting to {32,106,58 0}
+returned 58
+now at 512 196 390 0
+merging 511 512
+1. {32,106,58 0}
+2. {4,191,0 0}
+resulting to {36,297,58 0}
+returned 58
+now at 256 391 781 0
+merging 255 256
+1. {36,297,58 0}
+2. {391,0,0 0}
+resulting to {427,297,58 0}
+returned 58
+now at 128 782 1562 0
+merging 127 128
+1. {427,297,58 0}
+2. {8,760,13 0}
+resulting to {435,1057,71 0}
+returned 71
+now at 64 1563 3124 0
+merging 63 64
+1. {435,1057,71 0}
+2. {0,1562,0 0}
+resulting to {435,2619,71 0}
+returned 71
+now at 32 3125 6249 0
+merging 31 32
+1. {435,2619,71 0}
+2. {3125,0,0 0}
+resulting to {3560,2619,71 0}
+returned 71
+now at 16 6250 12499 0
+merging 15 16
+1. {3560,2619,71 0}
+2. {0,6250,0 0}
+resulting to {3560,8869,71 0}
+returned 71
+now at 8 12500 24999 0
+merging 7 8
+1. {3560,8869,71 0}
+2. {12500,0,0 0}
+resulting to {16060,8869,71 0}
+returned 71
+now at 4 25000 49999 0
+merging 3 4
+1. {16060,8869,71 0}
+2. {0,0,25000 0}
+resulting to {16060,8869,25071 0}
+returned 25071
+now at 2 50000 99999 0
+merging 1 2
+1. {16060,8869,25071 0}
+2. {50000,0,0 0}
+resulting to {66060,8869,25071 0}
+returned 25071
+====update of 1 1====
+====query of 2 2====
+now at 0 0 99999 0
+now at 1 0 49999 0
+now at 3 0 24999 0
+now at 7 0 12499 0
+now at 15 0 6249 0
+now at 31 0 3124 0
+now at 63 0 1562 0
+now at 127 0 781 0
+now at 255 0 390 0
+now at 511 0 195 0
+now at 1023 0 97 0
+now at 2047 0 48 0
+now at 4095 0 24 0
+now at 8191 0 12 0
+now at 16383 0 6 0
+now at 32767 0 3 0
+now at 65535 0 1 0
+now at 65536 2 3 0
+now at 131073 2 2 3
+now at 131074 3 3 3
+merging 131073 131074
+1. {0,0,1 0}
+2. {0,0,1 0}
+resulting to {0,0,2 0}
+returned 1
+merging 65535 65536
+1. {1,1,0 0}
+2. {0,0,2 0}
+resulting to {1,1,2 0}
+returned 1
+now at 32768 4 6 0
+merging 32767 32768
+1. {1,1,2 0}
+2. {0,3,0 0}
+resulting to {1,4,2 0}
+returned 1
+now at 16384 7 12 0
+merging 16383 16384
+1. {1,4,2 0}
+2. {6,0,0 0}
+resulting to {7,4,2 0}
+returned 1
+now at 8192 13 24 0
+merging 8191 8192
+1. {7,4,2 0}
+2. {0,5,7 0}
+resulting to {7,9,9 0}
+returned 1
+now at 4096 25 48 0
+merging 4095 4096
+1. {7,9,9 0}
+2. {24,0,0 0}
+resulting to {31,9,9 0}
+returned 1
+now at 2048 49 97 0
+merging 2047 2048
+1. {31,9,9 0}
+2. {0,0,49 0}
+resulting to {31,9,58 0}
+returned 1
+now at 1024 98 195 0
+merging 1023 1024
+1. {31,9,58 0}
+2. {0,98,0 0}
+resulting to {31,107,58 0}
+returned 1
+now at 512 196 390 0
+merging 511 512
+1. {31,107,58 0}
+2. {4,191,0 0}
+resulting to {35,298,58 0}
+returned 1
+now at 256 391 781 0
+merging 255 256
+1. {35,298,58 0}
+2. {391,0,0 0}
+resulting to {426,298,58 0}
+returned 1
+now at 128 782 1562 0
+merging 127 128
+1. {426,298,58 0}
+2. {8,760,13 0}
+resulting to {434,1058,71 0}
+returned 1
+now at 64 1563 3124 0
+merging 63 64
+1. {434,1058,71 0}
+2. {0,1562,0 0}
+resulting to {434,2620,71 0}
+returned 1
+now at 32 3125 6249 0
+merging 31 32
+1. {434,2620,71 0}
+2. {3125,0,0 0}
+resulting to {3559,2620,71 0}
+returned 1
+now at 16 6250 12499 0
+merging 15 16
+1. {3559,2620,71 0}
+2. {0,6250,0 0}
+resulting to {3559,8870,71 0}
+returned 1
+now at 8 12500 24999 0
+merging 7 8
+1. {3559,8870,71 0}
+2. {12500,0,0 0}
+resulting to {16059,8870,71 0}
+returned 1
+now at 4 25000 49999 0
+merging 3 4
+1. {16059,8870,71 0}
+2. {0,0,25000 0}
+resulting to {16059,8870,25071 0}
+returned 1
+now at 2 50000 99999 0
+merging 1 2
+1. {16059,8870,25071 0}
+2. {50000,0,0 0}
+resulting to {66059,8870,25071 0}
+returned 1
+====update of 999 9999====
+====query of 99 100====
+now at 0 0 99999 9
+now at 1 0 49999 9
+now at 3 0 24999 9
+now at 7 0 12499 9
+now at 15 0 6249 3
+now at 31 0 3124 3
+now at 63 0 1562 3
+now at 127 0 781 0
+now at 255 0 390 0
+now at 511 0 195 0
+now at 1023 0 97 0
+now at 1024 98 195 0
+now at 2049 98 146 2
+now at 4099 98 122 2
+now at 8199 98 110 2
+now at 16399 98 104 2
+now at 32799 98 101 2
+now at 65599 98 99 2
+now at 131199 98 98 2
+now at 131200 99 99 2
+merging 131199 131200
+1. {0,1,0 0}
+2. {0,1,0 0}
+resulting to {0,2,0 0}
+returned 0
+now at 65600 100 101 2
+now at 131201 100 100 2
+now at 131202 101 101 2
+merging 131201 131202
+1. {0,1,0 0}
+2. {0,1,0 0}
+resulting to {0,2,0 0}
+returned 0
+merging 65599 65600
+1. {0,2,0 0}
+2. {0,2,0 0}
+resulting to {0,4,0 0}
+returned 0
+now at 32800 102 104 2
+merging 32799 32800
+1. {0,4,0 0}
+2. {0,3,0 0}
+resulting to {0,7,0 0}
+returned 0
+now at 16400 105 110 2
+merging 16399 16400
+1. {0,7,0 0}
+2. {0,6,0 0}
+resulting to {0,13,0 0}
+returned 0
+now at 8200 111 122 2
+merging 8199 8200
+1. {0,13,0 0}
+2. {0,12,0 0}
+resulting to {0,25,0 0}
+returned 0
+now at 4100 123 146 2
+merging 4099 4100
+1. {0,25,0 0}
+2. {0,24,0 0}
+resulting to {0,49,0 0}
+returned 0
+now at 2050 147 195 2
+merging 2049 2050
+1. {0,49,0 0}
+2. {0,49,0 0}
+resulting to {0,98,0 0}
+returned 0
+merging 1023 1024
+1. {31,9,58 0}
+2. {0,98,0 0}
+resulting to {31,107,58 0}
+returned 0
+now at 512 196 390 0
+merging 511 512
+1. {31,107,58 0}
+2. {4,191,0 0}
+resulting to {35,298,58 0}
+returned 0
+now at 256 391 781 0
+merging 255 256
+1. {35,298,58 0}
+2. {391,0,0 0}
+resulting to {426,298,58 0}
+returned 0
+now at 128 782 1562 3
+merging 127 128
+1. {426,298,58 0}
+2. {13,182,586 0}
+resulting to {439,480,644 0}
+returned 0
+now at 64 1563 3124 0
+merging 63 64
+1. {439,480,644 0}
+2. {0,0,1562 0}
+resulting to {439,480,2206 0}
+returned 0
+now at 32 3125 6249 0
+merging 31 32
+1. {439,480,2206 0}
+2. {0,3125,0 0}
+resulting to {439,3605,2206 0}
+returned 0
+now at 16 6250 12499 6
+merging 15 16
+1. {439,3605,2206 0}
+2. {23,1612,4615 0}
+resulting to {462,5217,6821 0}
+returned 0
+now at 8 12500 24999 0
+merging 7 8
+1. {462,5217,6821 0}
+2. {12500,0,0 0}
+resulting to {12962,5217,6821 0}
+returned 0
+now at 4 25000 49999 0
+merging 3 4
+1. {12962,5217,6821 0}
+2. {0,0,25000 0}
+resulting to {12962,5217,31821 0}
+returned 0
+now at 2 50000 99999 0
+merging 1 2
+1. {12962,5217,31821 0}
+2. {50000,0,0 0}
+resulting to {62962,5217,31821 0}
+returned 0
+====update of 9 9====
+====query of 0 9====
+now at 0 0 99999 3
+now at 1 0 49999 3
+now at 3 0 24999 3
+now at 7 0 12499 3
+now at 15 0 6249 3
+now at 31 0 3124 3
+now at 63 0 1562 3
+now at 127 0 781 3
+now at 255 0 390 3
+now at 511 0 195 3
+now at 1023 0 97 3
+now at 2047 0 48 3
+now at 4095 0 24 3
+now at 8191 0 12 3
+now at 16383 0 6 0
+now at 16384 7 12 3
+now at 32769 7 9 0
+now at 32770 10 12 3
+merging 32769 32770
+1. {2,1,0 0}
+2. {3,0,0 0}
+resulting to {5,1,0 0}
+returned 0
+merging 16383 16384
+1. {1,4,2 0}
+2. {5,1,0 0}
+resulting to {6,5,2 0}
+returned 2
+now at 8192 13 24 0
+merging 8191 8192
+1. {6,5,2 0}
+2. {0,5,7 0}
+resulting to {6,10,9 0}
+returned 2
+now at 4096 25 48 0
+merging 4095 4096
+1. {6,10,9 0}
+2. {24,0,0 0}
+resulting to {30,10,9 0}
+returned 2
+now at 2048 49 97 0
+merging 2047 2048
+1. {30,10,9 0}
+2. {0,0,49 0}
+resulting to {30,10,58 0}
+returned 2
+now at 1024 98 195 0
+merging 1023 1024
+1. {30,10,58 0}
+2. {0,98,0 0}
+resulting to {30,108,58 0}
+returned 2
+now at 512 196 390 0
+merging 511 512
+1. {30,108,58 0}
+2. {4,191,0 0}
+resulting to {34,299,58 0}
+returned 2
+now at 256 391 781 0
+merging 255 256
+1. {34,299,58 0}
+2. {391,0,0 0}
+resulting to {425,299,58 0}
+returned 2
+now at 128 782 1562 0
+merging 127 128
+1. {425,299,58 0}
+2. {13,182,586 0}
+resulting to {438,481,644 0}
+returned 2
+now at 64 1563 3124 0
+merging 63 64
+1. {438,481,644 0}
+2. {0,0,1562 0}
+resulting to {438,481,2206 0}
+returned 2
+now at 32 3125 6249 0
+merging 31 32
+1. {438,481,2206 0}
+2. {0,3125,0 0}
+resulting to {438,3606,2206 0}
+returned 2
+now at 16 6250 12499 0
+merging 15 16
+1. {438,3606,2206 0}
+2. {23,1612,4615 0}
+resulting to {461,5218,6821 0}
+returned 2
+now at 8 12500 24999 0
+merging 7 8
+1. {461,5218,6821 0}
+2. {12500,0,0 0}
+resulting to {12961,5218,6821 0}
+returned 2
+now at 4 25000 49999 0
+merging 3 4
+1. {12961,5218,6821 0}
+2. {0,0,25000 0}
+resulting to {12961,5218,31821 0}
+returned 2
+now at 2 50000 99999 0
+merging 1 2
+1. {12961,5218,31821 0}
+2. {50000,0,0 0}
+resulting to {62961,5218,31821 0}
+returned 2
